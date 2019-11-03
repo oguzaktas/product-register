@@ -1,4 +1,4 @@
-[![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/oguzaktas/product-register) [![license](https://img.shields.io/badge/license-apache-blue.svg)](https://github.com/oguzaktas/product-register/blob/master/LICENSE) [![codacy](https://img.shields.io/badge/codacy-A-green.svg)](https://app.codacy.com/project/oguzaktas/product-register/dashboard) [![maintainability](https://api.codeclimate.com/v1/badges/9731a89ad72f05acb7b7/maintainability)](https://codeclimate.com/github/oguzaktas/product-register)
+[![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/oguzaktas/product-register) [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/oguzaktas/product-register/blob/master/LICENSE) [![codacy](https://img.shields.io/badge/codacy-A-green.svg)](https://app.codacy.com/project/oguzaktas/product-register/dashboard) [![maintainability](https://api.codeclimate.com/v1/badges/9731a89ad72f05acb7b7/maintainability)](https://codeclimate.com/github/oguzaktas/product-register)
 
 # Product Register
 
