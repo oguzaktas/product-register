@@ -21,7 +21,11 @@ This project uses the [ASP.NET Core Engineering Guidelines](https://github.com/a
 
 ## Screenshots
 
+![Screenshot2](https://user-images.githubusercontent.com/29024000/68082473-4a4cab00-fe2e-11e9-9670-fd322bb8abfb.png)
 
+![Screenshot3](https://user-images.githubusercontent.com/29024000/68082474-4a4cab00-fe2e-11e9-941a-12262cb57ea3.png)
+
+![Screenshot4](https://user-images.githubusercontent.com/29024000/68082475-4d479b80-fe2e-11e9-99fd-3cc4f88372db.png)
 
 ## License
 
