@@ -9,10 +9,10 @@ Simple ASP.NET Core MVC web application in C# using Entity Framework Core, CRUD 
 ## Tools, Technologies and Libraries
 
 - [ASP.NET Core MVC](https://github.com/aspnet/AspNetCore)
+- [Entity Framework Core](https://github.com/aspnet/EntityFrameworkCore)
 - [Microsoft SQL Server 2017](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
 - [Visual Studio Enterprise 2017](https://visualstudio.microsoft.com/downloads/)
 - [ReSharper Ultimate 2018.3](https://www.jetbrains.com/resharper/)
-- [Entity Framework Core](https://github.com/aspnet/EntityFrameworkCore)
 - [Font Awesome](https://github.com/aspnet/AspNetCore)
 
 ## Code Style
